@@ -34,6 +34,6 @@ This project helped me enhance my **data cleaning, DAX, and visualization skills
 
 ---
 
-![Dashboard Preview]
-
+##Dashboard Preview
+![Project Screenshot](IMG_5727.jpeg)
 
