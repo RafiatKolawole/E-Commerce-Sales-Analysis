@@ -1,4 +1,4 @@
-# E-Commerce Sales Dashboard 🛒📊
+# Amazon E-Commerce Sales Dashboard 🛒📊
 
 I’m excited to share my latest Power BI project — an **E-Commerce Sales Dashboard** designed to analyze **product performance, pricing, discounts, and customer engagement**.
 
@@ -34,6 +34,6 @@ This project helped me enhance my **data cleaning, DAX, and visualization skills
 
 ---
 
-##Dashboard Preview
+## Dashboard Preview
 ![Project Screenshot](IMG_5727.jpeg)
 
