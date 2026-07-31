@@ -52,10 +52,11 @@ This project analyzes over 1,000 Amazon products to uncover insights into produc
 
 ## Repository Contents
 
-- Amazon E-Commerce Dashboard.xlsx
-- CLEANED_DATA.csv
-- DASHBOARD.png
+- Amazon E-Commerce Analysis.xlsx
+- Amazon CLEANED_DATA.csv
+- Amazon DASHBOARD.png
 - EXECUTIVE_SUMMARY.pdf
+- BUSINESS_QUESTIONS.Pdf
 
 ## Dashboard Preview
 
