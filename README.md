@@ -1,39 +1,62 @@
-# Amazon E-Commerce Sales Dashboard 🛒📊
+# Amazon E-Commerce Sales Analysis
 
-I’m excited to share my latest Power BI project — an **E-Commerce Sales Dashboard** designed to analyze **product performance, pricing, discounts, and customer engagement**.
+## Project Overview
 
----
+This project analyzes over 1,000 Amazon products to uncover insights into product performance, customer ratings, pricing strategies, and user engagement. Using Microsoft Excel, the dashboard highlights key trends that help understand product popularity, category performance, customer satisfaction, and discount patterns.
 
-## Key KPIs
-- **Total Products:** 1,351  
-- **Total Users:** 1,194  
-- **Total Reviews:** 1,465  
-- **Average Rating:** 4.10 ⭐  
-- **Average Discount (%):** 0.48  
-- **Average Discount Price:** $3.13K  
+## Objectives
 
----
+- Identify the highest-rated products.
+- Compare actual prices, discounted prices, and customer ratings.
+- Analyze product category performance.
+- Identify the most reviewed and most popular products.
+- Evaluate discount patterns across product categories.
+- Generate business insights through interactive visualizations.
+
+## Tools & Technologies
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Power Query
 
 ## Dashboard Features
-- 📊 Top-performing products by **customer ratings**  
-- 💸 **Price vs Rating** analysis  
-- 📈 **Discount vs Engagement** visualization  
-- 📦 **Category performance overview**
 
----
+- KPI Cards displaying:
+  - Total Products
+  - Total Reviews
+  - Average Rating
+  - Average Discount Percentage
+  - Average Actual Price
+  - Maximum Rating
+- Top Performing Products by Rating
+- Product Price vs. Customer Rating Analysis
+- Top 10 Most Reviewed Products
+- Product Category Performance
+- Top 10 Most Discounted Products
+- Average Discount Percentage by Product Category
+- Interactive slicers for Product Category and Rating
 
-## Key Insights
-- ✨ **Price doesn’t influence ratings** — product quality drives customer satisfaction.  
-- ✨ **Some lower discounts have higher engagement**, showing that quality and value matter more than price cuts.  
-- ✨ **Certain categories consistently outperform others**, highlighting strong customer interest and satisfaction.
+## Key Skills Demonstrated
 
----
+- Data Cleaning
+- Data Transformation
+- Power Query
+- Pivot Tables
+- Pivot Charts
+- Dashboard Design
+- Data Visualization
+- Business Intelligence
+- Exploratory Data Analysis
 
-## Skills Demonstrated
-This project helped me enhance my **data cleaning, DAX, and visualization skills**, turning raw data into clear insights and **business value through data storytelling**.
+## Repository Contents
 
----
+- Amazon E-Commerce Dashboard.xlsx
+- CLEANED_DATA.csv
+- DASHBOARD.png
+- EXECUTIVE_SUMMARY.pdf
 
 ## Dashboard Preview
-![Project Screenshot](IMG_5727.jpeg)
 
+![Amazon E-Commerce Dashboard](AmazonDashboard.png)
