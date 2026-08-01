@@ -36,7 +36,7 @@ This project analyzes over 1,000 Amazon products to uncover insights into produc
 - Product Category Performance
 - Top 10 Most Discounted Products
 - Average Discount Percentage by Product Category
-- Interactive slicers for Product Category and Rating
+- Interactive slicers for Product Id and Rating
 
 ## Key Skills Demonstrated
 
